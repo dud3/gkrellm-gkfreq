@@ -1,10 +1,11 @@
-/*
- * version 1.1
- * Using code from gkx86info http://anchois.free.fr/
- * with patches from whatdoineed2do@yahoo.co.uk
- * and knefas@gmail.com
- * last modified by carlo.casta@gmail.com (oct 2010)
- */
+/****************************************************************************
+ * GKrellM GKfreq                                                           *
+ * ver1.1                                                                   *
+ *                                                                          *
+ * A plugin for GKrellM showing cpu current frequency                       *
+ *                                                                          *
+ * carlo.casta@gmail.com                                                    *
+ ****************************************************************************/
 
 #include <gkrellm2/gkrellm.h>
 #include <stdio.h>
